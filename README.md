@@ -1,1 +1,1 @@
-# smart-lamp-assets.github.io
+# smart-lamp-assets
