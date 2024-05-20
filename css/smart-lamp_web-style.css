@@ -24,19 +24,19 @@ hr {
     margin: 1rem;
 }
 
-hr .p30 {
+hr.p30 {
     width: 30%;
 }
 
-hr .p45 {
+hr.p45 {
     width: 45%;
 }
 
-hr .p70 {
+hr.p70 {
     width: 70%;
 }
 
-hr .p60 {
+hr.p60 {
     width: 60%;
     margin-bottom: 8rem;
 }
